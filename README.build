@@ -127,7 +127,7 @@ crash bug due to some APIs libwebsocket uses. To be able to use this you will
 need to use the current HEAD in their official repository:
 	https://github.com/cyassl/cyassl
 
-NOTE: cyassl needs to be compiled using the --enable-opensslExtra flag for
+NOTE: cyassl needs to be compiled using the --enable-opensslextra flag for
 this to work.
 
 Compiling libwebsockets with CyaSSL
